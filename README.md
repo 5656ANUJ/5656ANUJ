@@ -1,53 +1,80 @@
-# Hi, I'm Anuj 👋
+<h1 align="center">Hi 👋, I'm Anuj</h1>
 
-🚀 B.Tech Student | AI & Full Stack Developer  
-💡 Passionate about building real-world tech products and developer communities  
-🌱 Exploring AI Applications, Backend Systems, and Modern Web Technologies  
+<h3 align="center">
+🚀 AI & Full Stack Developer | Building Real-World Tech Products
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Building+Scalable+Web+Applications;Exploring+LLMs+%26+AI+Agents;Learning+by+Building+Real+Projects;Future+GDG+on+Campus+Lead" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I am a second-year engineering student focused on building impactful software and learning by building real-world projects.
+🎓 Second-year B.Tech student passionate about AI, Full Stack Development, and Developer Communities.
 
-I enjoy:
-- 🤖 Exploring AI applications and intelligent systems
-- 🌐 Building full-stack web applications
-- 👨‍💻 Solving development problems through practical projects
-- 🤝 Community building, collaboration, and helping students grow in tech
-- 📚 Learning in public and experimenting with new technologies
+💡 I enjoy building practical tech products, exploring modern technologies, and creating solutions that solve real-world problems.
 
-Currently focused on:
+🚀 Currently focused on:
 - AI-powered applications
 - Backend development
 - DSA in Java
-- Scalable real-world products
-- Developer communities & GDG
+- Scalable web systems
+- Community building & GDG
+
+🤝 I love collaborating, learning in public, mentoring students, and building communities where people grow together through technology.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/anujwebdev/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/5656ANUJ" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:anujdekate95@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=5656ANUJ&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=5656ANUJ&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5656ANUJ&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript
-- TypeScript
-- C++
-- Java
-- Python
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python" />
+</p>
 
 ### 🌐 Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- React
-- Vite
-- Next.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+</p>
 
 ### ⚙️ Backend & Database
-- Firebase
-- Appwrite
-- MongoDB
-- Node.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+</p>
 
 ### 🧠 Exploring
 - AI Applications
@@ -58,93 +85,86 @@ Currently focused on:
 - Developer Tools
 
 ### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-- Figma
-- Canva
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🏥 Health Camp Hub
-A community-focused healthcare awareness platform that helps organizations list free health camps and enables nearby users to discover healthcare services through interactive location-based features.
+Community-focused healthcare awareness platform helping organizations list free health camps and enabling users to discover nearby healthcare services through interactive maps.
 
 ### ⚡ Features
 - Free health camp listings
-- Interactive map for nearby health camps
-- Location-based camp discovery
-- Health awareness and accessibility focus
-- Community-driven healthcare support platform
+- Interactive location-based map
+- Nearby health camp discovery
+- Healthcare awareness platform
 
 ### 🛠️ Tech Used
 TypeScript • React • Modern Web Technologies
 
-### 💡 Project Vision
-Built to improve awareness and accessibility of free healthcare initiatives by connecting organizations conducting health camps with people who need them most.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🧠 RepoMind (Exploring)
-An AI-powered GitHub repository assistant designed to help developers understand, navigate, and interact with codebases more efficiently using AI.
+AI-powered GitHub repository assistant designed to help developers understand and interact with repositories more efficiently using AI.
 
 ### ⚡ Vision
-RepoMind aims to simplify repository understanding by allowing users to:
-- Analyze repositories intelligently
-- Understand project structure quickly
-- Explore documentation with AI assistance
-- Improve developer productivity
-- Build smarter code understanding workflows
+- Repository understanding with AI
+- Smart documentation exploration
+- Developer productivity workflows
+- AI-assisted codebase navigation
 
 ### 🛠️ Exploring Technologies
 LLMs • RAG Systems • AI Agents • GitHub APIs • Vector Search
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 ## 🏢 Infinova Tech
-Designed and developed a modern company website during my internship with focus on scalability, clean UI architecture, and interactive user experience.
+Designed and developed a modern company website during my internship with focus on scalability, reusable architecture, and modern UI/UX.
 
 ### ⚡ Features
-- Modern responsive UI/UX
-- Component-based scalable architecture
-- Interactive animations and smooth transitions
-- Optimized frontend performance
+- Responsive modern UI
+- Component-based architecture
+- Smooth animations & transitions
+- AI assistant integration
 
 ### 🛠️ Tech Used
 Next.js • Tailwind CSS • TypeScript • Lucide React • Antigravity AI
 
 ### 💡 My Contribution
-- Designed the complete frontend experience
-- Developed reusable component architecture
-- Implemented responsive layouts and UI sections
-- Focused on scalability and maintainable code structure
+- Designed complete frontend experience
+- Built reusable scalable components
+- Implemented responsive layouts
+- Focused on maintainable architecture
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🌐 Infinova Frontend
-Frontend application focused on responsive UI/UX and modern web experience for event and community platforms.
+Frontend application focused on building modern and responsive web experiences for event and community platforms.
 
 ### 🛠️ Tech Used
 JavaScript • React • Tailwind CSS
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-## 📈 Current Goals
+# 📈 Current Goals
 
-- Build scalable AI-powered products
-- Become a strong full-stack developer
-- Contribute to developer communities
-- Start and grow GDG on Campus in my college
-- Help students explore modern technologies and real-world development
+- 🚀 Build scalable AI-powered products
+- 🌐 Become a strong Full Stack Developer
+- 🤝 Contribute to developer communities
+- 🎯 Start and grow GDG on Campus in my college
+- 📚 Help students explore modern technologies
 
 ---
 
-## 🤝 Let's Connect
+# ⚡ Fun Fact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/anujwebdev/
-- 💻 GitHub: https://github.com/5656ANUJ
-- 📧 Email: anujdekate95@gmail.com
+💡 I believe the best way to learn technology is by building real projects, collaborating with people, and sharing knowledge with the community 🚀
 
 ---
 
-## ⚡ Fun Fact
-
-I believe the best way to learn technology is by building real projects, collaborating with people, and sharing knowledge with the community 🚀
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=5656ANUJ&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
