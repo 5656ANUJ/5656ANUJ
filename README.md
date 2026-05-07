@@ -41,7 +41,7 @@
 <a href="mailto:anujdekate95@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/anuj__7620" target="blank">
+<a href="https://www.instagram.com/anuj_webdev" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
