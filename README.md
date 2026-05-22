@@ -15,13 +15,7 @@
 
 <br/>
 
-## 👨‍💻 The Developer Dashboard
-
-<table width="100%">
-<tr>
-<td width="60%">
-
-### 🌟 About Me
+## 🌟 About Me
 🎓 **B.Tech Student** targeting software industry roles with a passion for AI, Full Stack Development, and dev communities.  
 💡 I learn by doing—crafting practical tech products and creating solutions that solve real-world problems rather than getting stuck in tutorial hell.  
 
@@ -31,14 +25,24 @@
 - 💻 **Core Fundamentals:** Grinding DSA in Java.
 - 🤝 **Community:** Learning in public, mentoring, and working towards leading GDG on Campus.
 
-</td>
-<td width="40%" align="center">
+---
 
-### ⚡ Quick Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=5656ANUJ&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+## 📊 Developer Metrics
+
+<div align="center">
+  <p align="center">
+    <!-- Overall Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=5656ANUJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&v=1" height="165" alt="GitHub Stats" />
+    <!-- Streak Card -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=5656ANUJ&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5656ANUJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </p>
+</div>
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -50,6 +54,8 @@
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=15" alt="Tools" />
 </div>
+
+---
 
 ## 🚀 Featured Projects Vault
 
@@ -76,6 +82,8 @@
   <br/><br/>
   <b>Tech:</b> Next.js • Tailwind CSS • TypeScript • Antigravity AI
 </details>
+
+---
 
 ## 🐍 Contribution Activity
 <div align="center">
