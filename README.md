@@ -31,14 +31,13 @@
 
 <div align="center">
   <p align="center">
-    <!-- Overall Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=5656ANUJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&v=1" height="165" alt="GitHub Stats" />
-    <!-- Streak Card -->
+    <img src="https://github-stats-extended.vercel.app/api?username=5656ANUJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" alt="GitHub Stats" />
+    
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=5656ANUJ&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
   </p>
+  
   <p align="center">
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5656ANUJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=5656ANUJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
 </div>
 
